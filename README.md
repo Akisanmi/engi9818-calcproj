@@ -91,7 +91,7 @@ python main.py "(x + 1)^2"
 - `eval <expr> at x=5` - Evaluate with specific variable values
 - `tree <expr> simple` - Show simple tree view
 
-## 📝 Examples
+##  Examples
 
 ### Symbolic Differentiation
 ```
@@ -197,26 +197,8 @@ The `src/` module provides a comprehensive API with:
 - Undefined variables during evaluation
 - Division by zero detection
 
-## Educational Value
 
-This project demonstrates:
-- **Compiler Design**: Lexical analysis and parsing
-- **Data Structures**: Tree structures and traversal algorithms
-- **Algorithms**: Symbolic manipulation and simplification
-- **Software Architecture**: Modular design and separation of concerns
-- **Mathematical Concepts**: Calculus and symbolic computation
 
-## Future Enhancements
 
-- Trigonometric functions (`sin`, `cos`, `tan`)
-- Logarithmic functions (`ln`, `log`)
-- Multi-letter variables
-- Expression plotting
-- More advanced simplification rules
-- Integration capabilities
-- Interactive tree editing
-- Export to LaTeX format
 
-## License
 
-This project is for educational purposes and demonstrates the implementation of a symbolic differentiation calculator.
